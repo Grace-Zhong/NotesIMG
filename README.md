@@ -1,0 +1,2 @@
+# NotesIMG
+Store note images.
